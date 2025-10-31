@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hero Description</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        .hero-container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .hero-image {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="hero-container">
+        <h1>Hero Name</h1>
+        <img src="hero-image.jpg" alt="Hero Image" class="hero-image">
+        <h2>About the Hero</h2>
+        <p>Наруто — главный герой одноимённой манги и аниме, шумный и энергичный ниндзя-подросток из Деревни Скрытого Листа.</p>
+        
+        <h3>Powers & Abilities</h3>
+        <ul>
+            <li>Power 1</li>
+            <li>Power 2</li>
+            <li>Power 3</li>
+        </ul>
+
+        <h3>Background Story</h3>
+        <p> Он является джинчуурики (носителем) Девятихвостого Демона-Лиса, что сделало его изгоем в детстве. Его главная мечта — стать Хокагэ (главой деревни), чтобы заслужить признание и защитить всех. Наруто обладает светлыми волосами, голубыми глазами и тремя отметинами в виде усов на щеках. </p>
+    </div>
+</body>
+</html>
